@@ -1,16 +1,16 @@
 /*
 
-  centraloracle
+  centeroracle
  
   Website: https://proit.id
 
-  Github: https://github.com/proitlab/vex-centraloracle/
+  Github: https://github.com/proitlab/vex-centeroracle/
   
   Published under MIT License
 
 */
 
-#include <centraloracle.hpp>
+#include <centeroracle.hpp>
 
 //Write datapoint
 ACTION centraloracle::write(const name owner, const std::vector<quote>& quotes) {
